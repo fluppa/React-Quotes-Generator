@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zadanie3react/static/css/main.a617e044.chunk.css",
+    "main.js": "/zadanie3react/static/js/main.62cdd7e5.chunk.js",
+    "main.js.map": "/zadanie3react/static/js/main.62cdd7e5.chunk.js.map",
+    "runtime-main.js": "/zadanie3react/static/js/runtime-main.e05f1012.js",
+    "runtime-main.js.map": "/zadanie3react/static/js/runtime-main.e05f1012.js.map",
+    "static/js/2.16dd5dc0.chunk.js": "/zadanie3react/static/js/2.16dd5dc0.chunk.js",
+    "static/js/2.16dd5dc0.chunk.js.map": "/zadanie3react/static/js/2.16dd5dc0.chunk.js.map",
+    "static/js/3.f84aac23.chunk.js": "/zadanie3react/static/js/3.f84aac23.chunk.js",
+    "static/js/3.f84aac23.chunk.js.map": "/zadanie3react/static/js/3.f84aac23.chunk.js.map",
+    "index.html": "/zadanie3react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/zadanie3react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.16dd5dc0.chunk.js.LICENSE.txt": "/zadanie3react/static/js/2.16dd5dc0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zadanie3react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e05f1012.js",
+    "static/js/2.16dd5dc0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.62cdd7e5.chunk.js"
+  ]
+}
